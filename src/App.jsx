@@ -3,7 +3,6 @@ import ResultField from "./components/ResultField";
 import ResultGraph from "./components/ResultGraph";
 import React, { useEffect } from "react";
 import "./index.css";
-import "./app.css";
 import { useState } from "react";
 
 function App() {
